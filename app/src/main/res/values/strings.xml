@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MasterDetailDemo</string>
+    <string name="title_action_detail">Action Detail</string>
+    <string name="speech_prompt">Speak now</string>
+    <string name="speech_hint">Type something you want me to say!</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string-array name="actions">
+        <item>Speech-to-Text</item>
+        <item>Text-to-Speech</item>
+        <item>Comic</item>
+        <item>Video</item>
+        <item>Animation</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
